@@ -3,7 +3,6 @@
 ## 🔍 Overview  
 This project is a dynamic and interactive Excel dashboard built for real estate business data analysis. It visualizes critical insights from Nobroker’s revenue data — including monthly growth, city-wise performance, team contributions, and customer lifestyle preferences — to support strategic decision-making.
 
----
 
 ## 📊 Features
 - 📅 Track total and monthly revenue trends
@@ -14,7 +13,6 @@ This project is a dynamic and interactive Excel dashboard built for real estate 
 - 📌 Slicer-based filtering for easy interactivity
 - 📊 Clean and well-structured Pivot Charts and Tables
 
----
 
 ## 🛠️ Tools & Technologies
 - Microsoft Excel
@@ -23,7 +21,6 @@ This project is a dynamic and interactive Excel dashboard built for real estate 
 - Excel formulas (SUMIF, COUNTIF, etc.)
 - Conditional Formatting for highlights
 
----
 
 ## 🚀 How to Run
 1. Clone the repository  
@@ -39,13 +36,15 @@ Nobroker Project.xlsx
    📂 Real-Estate-Revenue-Dashboard/
 │
 ├── Nobroker Project.xlsx         # Main Excel dashboard file
+
 ├── project 1.png                 # Dashboard screenshot
+
 └── README.md                     # Project documentation
 
-📈 Results / Screenshots
+## 📈 Results / Screenshots
 A snapshot of the real estate dashboard with revenue and team insights:
 
-🧠 Learnings
+## 🧠 Learnings
 Developed strong Excel dashboarding skills using Pivot tools
 
 Understood real-world KPIs in the real estate domain
@@ -55,7 +54,7 @@ Gained insights into city-based performance analysis and sales strategies
 Improved storytelling using business data visuals
 
 
-❓ Key Questions Answered
+## ❓ Key Questions Answered
 Which months generated the highest revenue?
 
 Who are the top-performing RMs and ULs?
@@ -65,7 +64,7 @@ How do customer preferences vary across property types?
 How do activations and closures affect overall revenue?
 
 
-✅ Final Conclusion
+## ✅ Final Conclusion
 The project demonstrates that:
 
 Revenue grew consistently from Jan to Jun (Total: ₹226.2M)
