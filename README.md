@@ -31,10 +31,10 @@ Nobroker Project.xlsx
 
 3. Use slicers to explore insights by city, RM, property type, and more.
 
-   📁 Folder Structure
+  ## 📁 Folder Structure
 
-   📂 Real-Estate-Revenue-Dashboard/
-│
+  ## 📂 Real-Estate-Revenue-Dashboard/
+  
 ├── Nobroker Project.xlsx         # Main Excel dashboard file
 
 ├── project 1.png                 # Dashboard screenshot
