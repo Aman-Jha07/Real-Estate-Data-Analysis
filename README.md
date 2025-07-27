@@ -77,6 +77,12 @@ Top-performing team members (ULs & RMs) consistently outperform peers
 
 Plan activation trends mirror business momentum with equal revenue split (Activation vs OSPP)
 
+## 🔗 Useful Links
+
+- 📂 **Project Excel File**: [Nobroker Project.xlsx](https://github.com/Aman-Jha07/Real-Estate-Data-Analysis/blob/main/Nobroker%20Project.xlsx)
+- 🖼️ **Dashboard Screenshot**: [project 1.png](https://github.com/Aman-Jha07/Real-Estate-Data-Analysis/blob/main/project%201.png)
+- 💻 **GitHub Profile**: [Aman-Jha07](https://github.com/Aman-Jha07)
+- 💼 **LinkedIn Profile**: [Aman Kumar Jha](https://www.linkedin.com/in/amankumarjhame/)
 
 
 
