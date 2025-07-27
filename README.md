@@ -43,6 +43,7 @@ Nobroker Project.xlsx
 
 ## 📈 Results / Screenshots
 A snapshot of the real estate dashboard with revenue and team insights:
+[project 1.png](https://github.com/Aman-Jha07/Real-Estate-Data-Analysis/blob/main/project%201.png)
 
 ## 🧠 Learnings
 Developed strong Excel dashboarding skills using Pivot tools
